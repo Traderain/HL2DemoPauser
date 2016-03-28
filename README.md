@@ -10,4 +10,4 @@ Credit to: http://inputsimulator.codeplex.com/
 5. Profit
 
 Current tick: 0x0017E37C. For windows 10 you might need to change this to 0x0018e374.
-Demo length: engine.dll+0x36D93C.
+Demo length: engine.dll+0x36D93C. 
