@@ -8,3 +8,6 @@ Credit to: http://inputsimulator.codeplex.com/
 3. Launch the program
 4. bind o demo_pause
 5. Profit
+
+Current tick: 0x0017E37C.
+Demo length: engine.dll+0x36D93C.
